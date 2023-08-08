@@ -1,0 +1,5 @@
+data/*
+*.pth
+*.pyc
+*.tar
+SSDT
