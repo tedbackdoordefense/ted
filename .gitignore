@@ -2,4 +2,14 @@ data/*
 *.pth
 *.pyc
 *.tar
-SSDT
+SSDT/checkpoints/
+SSDT/.idea/
+SSDT/data/
+SSDT/temps
+*.pdf
+*.pkl
+.idea/*
+wandb/*
+checkpoints/*
+TED_STAGING_PUBLISH/SSDT/*
+temps/*
