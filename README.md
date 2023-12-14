@@ -2,6 +2,9 @@
 
 This is the official repository for the paper "[Robust Backdoor Detection for Deep Learning via Topological Evolution Dynamics](https://arxiv.org/abs/2312.02673)" presented at IEEE Symposium on Security and Privacy (S&P) 2024.
 
+![Topology Persistence Digram](./TopologyPersistenceDiagram_CIAFR10_Layer_DeepColor-1.png)
+
+
 ## Source-Specific and Dynamic-Triggers (SSDT) Attack
 
 To execute the Source-Specific and Dynamic-Triggers (SSDT) attack on the CIFAR-10, MNIST, or GTSRB dataset, use the following configuration:
